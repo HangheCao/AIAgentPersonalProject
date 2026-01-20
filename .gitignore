@@ -1,0 +1,11 @@
+__pycache__/
+.ipynb_checkpoints/
+.env
+venv/
+.conda/
+.anaconda/
+.ipython/
+.jupyter/
+.vscode/
+.spyder-py3/
+.streamlit/
