@@ -1,4 +1,4 @@
-🧭 AgentsVille Trip Planner
+🧭 AgentsVille Trip Planner: A Multi-Agent Travel Assistant System
 
 AgentsVille Trip Planner is an AI-powered travel planning system designed to demonstrate advanced large language model (LLM) reasoning and agentic workflows. The project simulates a real-world travel assistant that generates, evaluates, and iteratively refines personalized travel itineraries for a fictional city called AgentsVille.
 
