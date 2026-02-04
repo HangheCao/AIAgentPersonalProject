@@ -9,7 +9,7 @@ Each subproject demonstrates a different aspect of agent design and orchestratio
 
 ## 📁 Projects
 
-### 🔹 Agentic Workflows
+### 🔹 AI-Powered Agentic Workflows for Project Management
 **Path:** `agentic-workflows/`
 
 A multi-agent system that simulates collaboration between specialized roles such as:
@@ -27,7 +27,7 @@ This project demonstrates how complex planning tasks can be decomposed and solve
 
 ---
 
-### 🔹 AgentsVille Trip Planner
+### 🔹 AgentsVille Trip Planner: A Multi-Agent Travel Assistant System
 **Path:** `agentsville-trip-planner/`
 
 An AI-powered travel planning system for a fictional city called *AgentsVille*.
