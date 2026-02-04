@@ -1,4 +1,4 @@
-# Agentic Workflows Project
+# AI-Powered Agentic Workflows for Project Management Project
 
 This project demonstrates how to design and implement **agentic AI workflows** using large language models (LLMs).  
 The system simulates collaboration between multiple specialized agents—such as a Product Manager, Program Manager, and Development Engineer—to generate a complete, structured project plan from a single high-level product specification.
