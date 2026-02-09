@@ -43,6 +43,24 @@ The system generates and refines a day-by-day travel itinerary while respecting 
 
 ---
 
+### 🔹 UdaPlay: AI Research Agent for Video Game Intelligence
+
+**Path:** `An_AI_Research_Agent_for_the_Video_Game_Intelligence/`
+
+An AI-powered research assistant designed to answer natural language questions about video games, publishers, platforms, and release information.
+
+Key concepts:
+- Retrieval-Augmented Generation (RAG) using a local vector database  
+- Semantic search over structured video game datasets  
+- Confidence-based evaluation of retrieved information  
+- Web search fallback for missing or low-confidence answers  
+- Tool-based agent architecture (retrieve → evaluate → search)  
+- Stateful agent workflow implemented as a decision/state machine  
+
+The system first attempts to answer user queries using internal game knowledge stored in a vector database. When the retrieved information is incomplete or unreliable, the agent automatically falls back to web search, integrates external results, and produces a clean, structured, and well-cited response.
+
+---
+
 ## 🛠 Technologies & Concepts
 
 - Python
