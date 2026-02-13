@@ -82,11 +82,26 @@ Customer requests are processed through an orchestrator agent that coordinates i
 
 ## 🛠 Technologies & Concepts
 
-- Python
-- Large Language Models (LLMs)
-- Agent routing and orchestration
-- Evaluation-driven refinement
-- Structured prompt engineering
+- **Python**
+- **Large Language Models (LLMs)** (GPT-4o-mini via tool-calling interfaces)
+- **Tool-calling agents** with structured function schemas
+- **Multi-Agent System Design** (Inventory, Quoting, Ordering, Orchestrator)
+- **Agent routing and orchestration logic**
+- **Retrieval-Augmented Generation (RAG)** with vector database integration
+- **SQLite + SQLAlchemy** for persistent state and transaction tracking
+- **Structured prompt engineering** and role-based prompting
+- **ReAct-style reasoning loops** (Thought → Action → Observation)
+- **Stateful agent workflows** implemented as decision/state machines
+- **Evaluation-driven refinement** and confidence-based response logic
+- **Database-backed business simulation** (inventory, cash flow, financial reports)
+- **Automated financial analytics** (cash balance, inventory valuation, top sellers)
+- **Batch transaction processing and stock validation rules**
+- **Error-safe tool design** to prevent infinite retry loops
+- **End-to-end workflow automation** for request handling
+- **Semantic search over structured datasets**
+- **Deterministic data seeding for reproducible simulations**
+- **Environment-based configuration management (.env)**
+- **Modular system architecture for extensibility**
 
 ---
 
