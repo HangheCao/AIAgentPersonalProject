@@ -6,13 +6,14 @@ The system manages inventory, generates customer quotes, processes sales orders,
 ---
 
 ## 📁 Project Structure
+
+```text
 The_Beaver's_Choice_Paper_Company_Sales_Team/
 │
-├── assets/ # Workflow diagram
-├── project_starter.py # Main multi-agent implementation
+├── assets/                      # Workflow diagram
+├── project_starter.py           # Main multi-agent implementation
 ├── reflection_report_updated.pdf
-└── test_results.csv # Simulation results
-
+└── test_results.csv             # Simulation results
 
 ---
 
