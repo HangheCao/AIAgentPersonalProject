@@ -61,6 +61,25 @@ The system first attempts to answer user queries using internal game knowledge s
 
 ---
 
+### 🧾 The Beaver’s Choice: Multi-Agent Sales & Inventory System  
+**Path:** `The_Beaver's_Choice_Paper_Company_Sales_Team/`
+
+An AI-powered multi-agent system designed to manage inventory, generate customer quotes, process sales orders, and maintain financial tracking for a paper supply company.
+
+Key concepts:
+- Multi-Agent Architecture with specialized agents (Inventory, Quoting, Ordering, Orchestrator)
+- Tool-calling agents using structured function interfaces
+- SQLite database integration for transactions, inventory, and quote history
+- Automated quote generation with markup-based pricing logic
+- Inventory-aware order execution with stock validation and reorder policies
+- Financial reporting engine tracking cash balance, inventory valuation, and top-selling products
+- End-to-end request orchestration via a central coordinating agent
+
+The system simulates real-world business operations for a paper supply company.  
+Customer requests are processed through an orchestrator agent that coordinates inventory checks, pricing calculations, order fulfillment, and optional stock reordering — while maintaining accurate transaction and financial records.
+
+---
+
 ## 🛠 Technologies & Concepts
 
 - Python
